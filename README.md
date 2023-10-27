@@ -11,9 +11,10 @@ Aside from coding, I also love:
 - Watching Anime 📺
 - Gaming 🎮
 
-## Programming Languages I Know!
+## Some Programming Languages I Know!
+- Javascript ☕
+- Typescript 🔧
 - Java ♨️
 - Python 🐍
-- Javascript ☕
 - Kotlin 🤖
 - Dart 🎯
