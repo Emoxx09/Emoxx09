@@ -1,8 +1,8 @@
 # Hey, name's Khyle! 👋️😄
 
-I'm currently studying Computer Science at the University of the Immaculate Conception 🤔📜
+I recently graduated with a degree in Computer Science at the University of the Immaculate Conception 🤔📜
 
-I work as a Software Engineer on the side 👨‍💻 I also join startup competitions with my team where I plan and pitch 💯
+I currently work as a Software Engineer 👨‍💻 I also join startup competitions with my team where I plan and pitch 💯
 
 Aside from coding, I also love:
 - Singing 🎤🎶
