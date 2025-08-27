@@ -1,6 +1,6 @@
 # Hey, name's Khyle! 👋️😄
 
-I'm a Senior Software & AI Engineer who create software tailored to client specific needs 👨‍💻 
+Senior Software & AI Engineer specializing in building tailored solutions that meet clients’ unique needs 👨‍💻 
 
 I graduated with a degree in Computer Science at the University of the Immaculate Conception 🤔📜
 
